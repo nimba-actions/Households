@@ -5,7 +5,7 @@ project:
         namespace: npo02
         api_version: 53.0
     dependencies:
-        - github: https://github.com/SalesforceFoundation/Contacts_and_Organizations
+        - github: https://github.com/nimba-actions/Contacts_and_Organizations
     dependency_resolutions:
         preproduction: include_beta
     git:
